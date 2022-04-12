@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_service">Tap to start</string>
+    <string name="stop_service">Tap to stop</string>
+</resources>
